@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4194
   title: རྗེ་བཙུན་ཤེས་རབ་སེངྒེའི་རྟོགས་བརྗོད་སྐལ་བཟང་དད་པའི་འདོད་འཇོ་དཔག་བསམ་ཡོངས་འདུའི་ཁྲི་ཤིང
-  volume: ''
+  volume:
+    2b9b5facb0454e35af2fdd17571d70fb:
+      image_group_id: I1PD96711
+      title: Volume 1 of rje btsun shes rab seng+ge'i rtogs pa brjod pa skal bzang
+        dad pa'i 'dod 'jo dpag bsam yongs 'du'i khri shing
+      volume_number: 1
+      total_pages: 130
   author: ''
+ebook_metadata:
+  title: རྗེ་བཙུན་ཤེས་རབ་སེངྒེའི་རྟོགས་བརྗོད་སྐལ་བཟང་དད་པའི་འདོད་འཇོ་དཔག་བསམ་ཡོངས་འདུའི་ཁྲི་ཤིང
+  author: ''
+  sku: P007840
+  cover: cover.jpg
+  layers:
+  - pagination
